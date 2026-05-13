@@ -1,0 +1,1 @@
+import{g as i}from"./browser.BlHSQ8v4.js";function r(e,n){e?.childNodes.forEach(o=>{o.nodeType===Node.TEXT_NODE&&o.remove()}),e?.querySelector("i")?.insertAdjacentText("afterend",` Thêm vào ${n} - Miễn phí`),e?.style.setProperty("display","inline-flex","important")}const t=i();t&&(r(document.getElementById("btn-install"),t),r(document.getElementById("btn-install-cta"),t));
